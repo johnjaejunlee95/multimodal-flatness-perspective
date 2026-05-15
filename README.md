@@ -1,4 +1,4 @@
-9# Understanding Multimodal Learning: A Loss Landscape Smoothness Perspective
+# Understanding Multimodal Learning: A Loss Landscape Smoothness Perspective
 
 Official implementation of **Understanding Multimodal Learning: A Loss Landscape Smoothness Perspective**.
 
