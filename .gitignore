@@ -1,0 +1,16 @@
+__pycache__
+*.json
+*.pdf
+*.png
+.ckpt
+*.ipynb
+*.pth
+*.pt
+result_save
+results
+notebooks*
+.ipynb_checkpoints
+*.ttf
+checkpoint*
+ckpt*
+.DS_Store
