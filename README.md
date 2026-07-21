@@ -3,9 +3,8 @@
 Official implementation of **Understanding Multimodal Learning: A Loss Landscape Smoothness Perspective**.
 
 > Jae-Jun Lee, Sung Whan Yoon  
-> **ICML 2026 Accepted**
->
-> [ICML 2026] TBD
+> **Accepted at ICML 2026**  
+> Paper: [OpenReview](https://openreview.net/forum?id=2htwc6cHmu)
 
 TL;DR: This paper studies multimodal learning through the lens of **loss landscape smoothness**. We show that multimodal learning can induce a convolutional smoothing effect over the loss landscape and propose **Distributional Multimodal Learning (DML)**, a simple stochastic modality-pairing strategy that further promotes flatter landscapes, robustness, and generalization.
 
@@ -134,4 +133,13 @@ Read `README.md` at `analysis/` for more details on how to run each analysis scr
 
 ## Citation
 
-Soon to be updated with the official citation information after the camera-ready version is available.
+```bibtex
+@inproceedings{
+  lee2026understanding,
+  title={Understanding Multimodal Learning: A Loss Landscape Smoothness Perspective},
+  author={Jae-Jun Lee and Sung Whan Yoon},
+  booktitle={Forty-third International Conference on Machine Learning},
+  year={2026},
+  url={https://openreview.net/forum?id=2htwc6cHmu}
+}
+```
