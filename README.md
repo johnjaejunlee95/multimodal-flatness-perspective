@@ -134,12 +134,19 @@ Read `README.md` at `analysis/` for more details on how to run each analysis scr
 ## Citation
 
 ```bibtex
-@inproceedings{
-  lee2026understanding,
-  title={Understanding Multimodal Learning: A Loss Landscape Smoothness Perspective},
-  author={Jae-Jun Lee and Sung Whan Yoon},
-  booktitle={Forty-third International Conference on Machine Learning},
-  year={2026},
-  url={https://openreview.net/forum?id=2htwc6cHmu}
+@InProceedings{pmlr-v306-lee26bk,
+  title = 	 {Understanding Multimodal Learning: A Loss Landscape Smoothness Perspective},
+  author =       {Lee, Jae-Jun and Yoon, Sung Whan},
+  booktitle = 	 {Proceedings of the 43rd International Conference on Machine Learning},
+  pages = 	 {65206--65230},
+  year = 	 {2026},
+  editor = 	 {Zhang, Tong and Dudik, Miroslav and Jaggi, Martin and Agarwal, Alekh and Li, Sharon and Schuurmans, Dale and Zhu, Jerry and Berkenkamp, Felix and Dong, Hanze and Bietti, Alberto},
+  volume = 	 {306},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {06--11 Jul},
+  publisher =    {PMLR},
+  pdf = 	 {https://raw.githubusercontent.com/mlresearch/v306/main/assets/lee26bk/lee26bk.pdf},
+  url = 	 {https://proceedings.mlr.press/v306/lee26bk.html},
 }
+
 ```
